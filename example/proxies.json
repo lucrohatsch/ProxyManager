@@ -1,0 +1,9 @@
+{
+    "proxies": [
+        {
+            "name": "my_public_proxy",
+            "ip": "34.110.251.255",
+            "port": "80"
+        }
+    ]
+}
